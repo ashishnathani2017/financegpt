@@ -1,0 +1,107 @@
+{
+  "documents": [
+    {
+      "file": "01MPR071020267B057FA4E71E4164A8B14EDC40197418.pdf",
+      "chars": 292610,
+      "words": 44884
+    },
+    {
+      "file": "EDITEDTR101020267A1D86E2C75B46B79D8D065509673641.pdf",
+      "chars": 51085,
+      "words": 8692
+    },
+    {
+      "file": "PR1266EE06BBCD7F5A4B2091FB59ADE87FE4A1.pdf",
+      "chars": 25120,
+      "words": 3909
+    },
+    {
+      "file": "PR1361B0E4694B08CE42CDBEFE60069A43F7D0.pdf",
+      "chars": 30727,
+      "words": 4766
+    },
+    {
+      "file": "PR5720E56F0A4611A404EACBD71F2207673A2.pdf",
+      "chars": 2945,
+      "words": 365
+    },
+    {
+      "file": "PR62462AD650C8168481BAC17613CC54CFED8.pdf",
+      "chars": 2587,
+      "words": 348
+    },
+    {
+      "file": "PR80907599DE5FD164918A49085C9D6270116.pdf",
+      "chars": 8866,
+      "words": 1293
+    },
+    {
+      "file": "PR9257E0CB4D769F24658B0AB41428CA46F97.pdf",
+      "chars": 33835,
+      "words": 5295
+    },
+    {
+      "file": "sebi_1996_Securities_and_Exchange_Board_of_India_Mutual_Funds_Regulations_1996_Last_amended_on_Novem_37f6cdb6.pdf",
+      "chars": 453853,
+      "words": 68885
+    },
+    {
+      "file": "sebi_2018_Securities_and_Exchange_Board_of_India_Issue_of_Capital_and_Disclosure_Requirements_Regula_facf4e24.pdf",
+      "chars": 1156210,
+      "words": 178383
+    },
+    {
+      "file": "sebi_2026_Securities_and_Exchange_Board_of_India_Mutual_Funds_Regulations_2026_798763bf.pdf",
+      "chars": 433264,
+      "words": 75337
+    },
+    {
+      "file": "sebi_Feb_26_2026_Categorization_and_Rationalization_of_Mutual_Fund_Schemes_902cbc7f.pdf",
+      "chars": 45576,
+      "words": 7097
+    },
+    {
+      "file": "sebi_Feb_26_2026_Ease_of_Doing_Investment_EoDI_-_Disclosure_of_registered_name_and_registration_numb_c789367d.pdf",
+      "chars": 7571,
+      "words": 1144
+    },
+    {
+      "file": "sebi_Feb_26_2026_Valuation_of_physical_Gold_and_Silver_held_by_mutual_fund_schemes_9626c9f6.pdf",
+      "chars": 2807,
+      "words": 411
+    },
+    {
+      "file": "sebi_Jan_30_2026_Ease_of_Doing_Investment_and_Ease_of_Doing_Business_Doing_away_with_requirement_of__2b7d2d4a.pdf",
+      "chars": 9466,
+      "words": 1414
+    },
+    {
+      "file": "sebi_Mar_06_2026_Introduction_of_Voluntary_Lock-in_Debit_freeze_facility_to_Mutual_Fund_folios_d83d8c8f.pdf",
+      "chars": 2674,
+      "words": 409
+    },
+    {
+      "file": "sebi_Mar_13_2026_Borrowing_by_Mutual_Funds_1a0691b0.pdf",
+      "chars": 4741,
+      "words": 736
+    },
+    {
+      "file": "sebi_Mar_25_2026_Addendum_to_SEBI_Circular_on_Borrowing_by_Mutual_Funds_89cca30b.pdf",
+      "chars": 1739,
+      "words": 251
+    },
+    {
+      "file": "sebi_Mar_25_2026_Clarification_regarding_eligibility_of_members_of_the_Institute_of_Cost_Accountants_7b7a5b75.pdf",
+      "chars": 3336,
+      "words": 482
+    },
+    {
+      "file": "sebi_Mar_25_2026_Clarification_regarding_eligibility_of_members_of_the_Institute_of_Cost_Accountants_86330b0e.pdf",
+      "chars": 3778,
+      "words": 552
+    }
+  ],
+  "chunks": 584,
+  "top1_hits": "4/6",
+  "top3_hits": "5/6"
+}
